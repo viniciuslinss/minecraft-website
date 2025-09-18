@@ -1,0 +1,140 @@
+{
+  "common": {
+    "navbar": {
+      "button": "Kontaktiere Uns"
+    },
+    "footer": {
+      "description": "Revolution im Minecraft-Gameplay mit intelligenten KI-Agenten.",
+      "message": "© 2025 AgenCraf. Alle Rechte vorbehalten.",
+      "button": {
+        "builder_agent": "Baumeister-Agent",
+        "gatherer_agent": "Abenteurer-Agent",
+        "collector_agent": "Sammler-Agent",
+        "faq": "FAQ",
+        "contact_us": "Kontaktiere Uns",
+        "installation_guide": "Installationsanleitung",
+        "discord_server": "Discord-Server",
+        "reddit_community": "Reddit-Community",
+        "youtube_channel": "YouTube-Kanal",
+        "twitter": "Twitter"
+      },
+      "label": {
+        "products": "Produkte",
+        "support": "Support",
+        "connect": "Verbindungen"
+      }
+    }
+  },
+  "blocks": {
+    "faq_section": {
+      "item_1": {
+        "label": "Was sind AgenCraf-Agenten?",
+        "message": "AgenCraf-Agenten sind KI-gesteuerte Charaktere, die entwickelt wurden, um Ihr Minecraft-Erlebnis zu verbessern. Sie automatisieren Aufgaben wie Bauen, Bergbau, Landwirtschaft und Sammeln."
+      },
+      "item_2": {
+        "label": "Welche Agententypen gibt es?",
+        "message": "Verfügbare Agenten: Architekt-Agent (Bauen), Abenteurer-Agent (Bergbau und Erkundung), Sammler-Agent (Inventarverwaltung und automatische Sammlung)."
+      },
+      "item_3": {
+        "label": "Sind die Agenten sicher?",
+        "message": "Ja! Alle unsere Agenten sind zu 100% sicher konzipiert. Sie stellen kein Risiko für Serververstöße oder Sperrungen dar."
+      },
+      "item_4": {
+        "label": "Auf welchen Plattformen funktionieren sie?",
+        "message": "AgenCraf-Agenten sind für die Minecraft Java- und Bedrock-Versionen optimiert."
+      },
+      "item_5": {
+        "label": "Wie kann ich Agenten kaufen?",
+        "message": "Sie können den gewünschten Agenten auf unserer Website über die Schaltfläche 'Jetzt kaufen' auswählen und mit sicheren Zahlungsmethoden bezahlen."
+      },
+      "item_6": {
+        "label": "Kann ich Unterstützung erhalten?",
+        "message": "Ja! Unser Support-Team steht Ihnen rund um die Uhr zur Verfügung. Sie können uns über unsere Kontaktseite bei Fragen erreichen."
+      }
+    },
+    "features_section": {
+      "title": "Warum unsere Agenten wählen?",
+      "description": "Erstellt mit der neuesten KI-Technologie für das ultimative Minecraft-Erlebnis",
+      "item": {
+        "lightning_fast": {
+          "title": "Blitzschnell",
+          "description": "Optimierte Leistung für ein flüssiges Spielerlebnis"
+        },
+        "safe": {
+          "title": "100% Sicher",
+          "description": "Kein Risiko von Bann oder Serververletzungen"
+        },
+        "support": {
+          "title": "24/7 Support",
+          "description": "Fachkundige Hilfe, wann immer Sie sie brauchen"
+        },
+        "top_rated": {
+          "title": "Bestbewertet",
+          "description": "Von Tausenden Spielern weltweit vertraut"
+        }
+      }
+    },
+    "choose_agent_section": {
+      "title": "Wähle deinen Agenten",
+      "description": "Jeder KI-Agent ist speziell entwickelt, um dein Minecraft-Erlebnis mit einzigartigen Fähigkeiten zu verbessern",
+      "buy_now_button": "Jetzt Kaufen",
+      "sale": "Angebot",
+      "item": {
+        "builder_agent": {
+          "title": "Baumeister-Agent",
+          "description": "Automatisiert Bauprojekte mit intelligenter Planung und errichtet komplexe Strukturen.",
+          "feature": {
+            "blueprint": "Intelligente Plan-Ausführung",
+            "resource": "Ressourcenoptimierung",
+            "buildings": "Mehrstöckige Gebäude",
+            "redstone": "Redstone-Integration"
+          }
+        },
+        "gatherer_agent": {
+          "title": "Abenteurer-Agent",
+          "description": "Fördert Ressourcen effizient mit fortschrittlichen Pfadfindungsalgorithmen und erkundet Höhlen.",
+          "feature": {
+            "mining": "Automatisierte Bergbausysteme",
+            "cave": "Höhlenforschung",
+            "ore": "Erz-Erkennung",
+            "safe": "Sichere Navigation"
+          }
+        },
+        "collector_agent": {
+          "title": "Sammler-Agent",
+          "description": "Organisiert Inventar und verwaltet das Sammeln von Items mit intelligenten Sortiersystemen.",
+          "feature": {
+            "smart": "Intelligente Item-Sortierung",
+            "chest": "Kistenorganisation",
+            "farming": "Automatische Landwirtschaft",
+            "trade": "Handelsmanagement"
+          }
+        }
+      }
+    }
+  },
+  "features": {
+    "homepage": {
+      "hero": {
+        "title": "Erstelle deinen eigenen Agenten",
+        "description": "Erstellt mit der neuesten KI-Technologie für das ultimative Minecraft-Erlebnis",
+        "download_button": "Herunterladen",
+        "login_button": "Anmelden"
+      }
+    }
+  },
+  "pages": {
+    "home": {
+      "meta": {
+        "title": "Intelligente KI-Agenten für Minecraft",
+        "description": "AgenCraf revolutioniert das Minecraft-Spiel, indem es automatisches Bauen, Bergbau, Landwirtschaft und vieles mehr mit KI-Agenten ermöglicht. Jetzt entdecken!"
+      }
+    },
+    "faq": {
+      "meta": {
+        "title": "Häufig gestellte Fragen zu Minecraft KI-Agenten",
+        "description": "Häufig gestellte Fragen und Antworten zu AgenCraf. Hier finden Sie Informationen über KI-Agenten, die Ihr Minecraft-Erlebnis verbessern, sowie Details zu Kauf, Nutzung und Support."
+      }
+    }
+  }
+}

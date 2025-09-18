@@ -1,0 +1,140 @@
+{
+  "common": {
+    "navbar": {
+      "button": "Bizimle Görüş"
+    },
+    "footer": {
+      "description": "Akıllı yapay zeka ajanlarıyla Minecraft oynanışında devrim.",
+      "message": "© 2025 AgenCraf. Tüm hakları saklıdır.",
+      "button": {
+        "builder_agent": "Mimar Ajan",
+        "gatherer_agent": "Macera Perest Ajan",
+        "collector_agent": "Toplayıcı Ajan",
+        "faq": "SSS",
+        "contact_us": "Bizimle Görüş",
+        "installation_guide": "Kurulum Kılavuzu",
+        "discord_server": "Discord Sunucusu",
+        "reddit_community": "Reddit Topluluğu",
+        "youtube_channel": "Youtube Kanalı",
+        "twitter": "Twitter"
+      },
+      "label": {
+        "products": "Ürünler",
+        "support": "Destek",
+        "connect": "Bağlantılar"
+      }
+    }
+  },
+  "pages": {
+    "home": {
+      "meta": {
+        "title": "Minecraft için Akıllı Yapay Zeka Ajanları",
+        "description": "Minecraft oynanışında devrim yaratan AgenCraf, yapay zeka ajanlarıyla otomatik inşaat, madencilik, tarım ve daha fazlasını mümkün kılar. Hemen keşfet!"
+      }
+    },
+    "faq": {
+      "meta": {
+        "title": "Minecraft Yapay Zeka Ajanları Hakkında Sorular",
+        "description": "AgenCraf ile ilgili sıkça sorulan sorular ve cevaplar. Minecraft deneyiminizi geliştiren yapay zeka ajanları, satın alma, kullanım ve destek hakkında bilgilere buradan ulaşın."
+      }
+    }
+  },
+  "blocks": {
+    "faq_section": {
+      "item_1": {
+        "label": "AgenCraf ajanları nedir?",
+        "message": "AgenCraf ajanları, Minecraft deneyiminizi geliştirmek için tasarlanmış yapay zeka destekli karakterlerdir. İnşaat, madencilik, tarım ve toplama gibi görevleri otomatikleştirirler."
+      },
+      "item_2": {
+        "label": "Hangi ajan tipleri mevcut?",
+        "message": "Mevcut ajanlar: Mimar Ajan (inşaat), Macera Perest Ajan (madencilik ve keşif), Toplayıcı Ajan (envanter yönetimi ve otomatik toplama)."
+      },
+      "item_3": {
+        "label": "Ajanlar güvenli mi?",
+        "message": "Evet! Tüm ajanlarımız %100 güvenli olacak şekilde tasarlanmıştır. Sunucu ihlali veya yasaklanma riski içermez."
+      },
+      "item_4": {
+        "label": "Hangi platformlarda çalışıyor?",
+        "message": "AgenCraf ajanları Minecraft Java ve Bedrock sürümlerinde çalışacak şekilde optimize edilmiştir."
+      },
+      "item_5": {
+        "label": "Ajanları nasıl satın alabilirim?",
+        "message": "Web sitemizdeki 'Hemen Al' butonunu kullanarak istediğiniz ajanı seçebilir ve güvenli ödeme yöntemleri ile satın alabilirsiniz."
+      },
+      "item_6": {
+        "label": "Destek alabilir miyim?",
+        "message": "Evet! 7/24 destek ekibimiz size yardımcı olmaya hazırdır. Herhangi bir sorunuz için iletişim sayfamızdan bize ulaşabilirsiniz."
+      }
+    },
+    "features_section": {
+      "title": "Neden Ajanlarımızı Seçmelisiniz?",
+      "description": "En üst düzey Minecraft deneyimi için en son yapay zeka teknolojisiyle oluşturuldu",
+      "item": {
+        "lightning_fast": {
+          "title": "Yıldırım hızında",
+          "description": "Akıcı oyun deneyimi için optimize edilmiş performans"
+        },
+        "safe": {
+          "title": "%100 Güvenli",
+          "description": "Yasaklanma veya sunucu ihlali riski yok"
+        },
+        "support": {
+          "title": "7/24 Destek",
+          "description": "İhtiyacınız olduğunda uzman yardımı"
+        },
+        "top_rated": {
+          "title": "En İyi Dereceli",
+          "description": "Dünya çapında binlerce oyuncunun güvendiği"
+        }
+      }
+    },
+    "choose_agent_section": {
+      "title": "Ajanınızı Seçin",
+      "description": "Her yapay zeka ajanı, benzersiz yeteneklerle Minecraft deneyiminizi geliştirmek için özel olarak tasarlanmıştır",
+      "buy_now_button": "Hemen Al",
+      "sale": "İndirim",
+      "item": {
+        "builder_agent": {
+          "title": "Mimar Ajan",
+          "description": "Akıllı planlama ile inşaat projelerini otomatikleştirir ve karmaşık yapılar inşa eder.",
+          "feature": {
+            "blueprint": "Akıllı plan yürütme",
+            "resource": "Kaynak optimizasyonu",
+            "buildings": "Çok katlı binalar",
+            "redstone": "Redstone entegrasyonu"
+          }
+        },
+        "gatherer_agent": {
+          "title": "Macera Perest Ajan",
+          "description": "Gelişmiş yol bulma algoritmalarıyla kaynakları verimli bir şekilde çıkarır ve mağaraları keşfeder.",
+          "feature": {
+            "mining": "Otomatik madencilik sistemleri",
+            "cave": "Mağara keşfi",
+            "ore": "Cevher tespiti",
+            "safe": "Güvenli navigasyon"
+          }
+        },
+        "collector_agent": {
+          "title": "Toplayıcı Ajan",
+          "description": "Akıllı sıralama sistemleri ile envanteri düzenler ve ürün toplamayı yönetir.",
+          "feature": {
+            "smart": "Akıllı ürün sıralama",
+            "chest": "Sandık Organizasyonu",
+            "farming": "Otomatik tarım",
+            "trade": "Ticaret yönetimi"
+          }
+        }
+      }
+    }
+  },
+  "features": {
+    "homepage": {
+      "hero": {
+        "title": "Kendi Ajanını Oluştur",
+        "description": "En üst düzey Minecraft deneyimi için en son yapay zeka teknolojisiyle oluşturuldu",
+        "download_button": "İndir",
+        "login_button": "Giriş Yap"
+      }
+    }
+  }
+}

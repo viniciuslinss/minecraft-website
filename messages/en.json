@@ -1,0 +1,140 @@
+{
+  "common": {
+    "navbar": {
+      "button": "Contact Us"
+    },
+    "footer": {
+      "description": "Revolutionizing Minecraft gameplay with intelligent AI agents.",
+      "message": "© 2025 AgenCraf. All rights reserved.",
+      "button": {
+        "builder_agent": "Builder Agent",
+        "gatherer_agent": "Adventurer Agent",
+        "collector_agent": "Collector Agent",
+        "faq": "FAQ",
+        "contact_us": "Contact Us",
+        "installation_guide": "Installation Guide",
+        "discord_server": "Discord Server",
+        "reddit_community": "Reddit Community",
+        "youtube_channel": "YouTube Channel",
+        "twitter": "Twitter"
+      },
+      "label": {
+        "products": "Products",
+        "support": "Support",
+        "connect": "Connect"
+      }
+    }
+  },
+  "blocks": {
+    "faq_section": {
+      "item_1": {
+        "label": "What are AgenCraf agents?",
+        "message": "AgenCraf agents are AI-powered characters designed to enhance your Minecraft experience. They automate tasks such as building, mining, farming, and collecting."
+      },
+      "item_2": {
+        "label": "What types of agents are available?",
+        "message": "Available agents: Architect Agent (building), Adventurer Agent (mining and exploration), Collector Agent (inventory management and automatic collection)."
+      },
+      "item_3": {
+        "label": "Are the agents safe?",
+        "message": "Yes! All our agents are designed to be 100% safe. They do not pose a risk of server violations or bans."
+      },
+      "item_4": {
+        "label": "Which platforms do they work on?",
+        "message": "AgenCraf agents are optimized to work on Minecraft Java and Bedrock editions."
+      },
+      "item_5": {
+        "label": "How can I purchase agents?",
+        "message": "You can select the agent you want on our website using the 'Buy Now' button and complete your purchase with secure payment methods."
+      },
+      "item_6": {
+        "label": "Can I get support?",
+        "message": "Yes! Our support team is available 24/7 to assist you. You can reach out to us via our contact page for any questions."
+      }
+    },
+    "features_section": {
+      "title": "Why Choose Our Agents?",
+      "description": "Built with the latest AI technology for the ultimate Minecraft experience",
+      "item": {
+        "lightning_fast": {
+          "title": "Lightning Fast",
+          "description": "Optimized performance for smooth gameplay"
+        },
+        "safe": {
+          "title": "100% Safe",
+          "description": "No risk of bans or server violations"
+        },
+        "support": {
+          "title": "24/7 Support",
+          "description": "Expert assistance whenever you need it"
+        },
+        "top_rated": {
+          "title": "Top Rated",
+          "description": "Trusted by thousands of players worldwide"
+        }
+      }
+    },
+    "choose_agent_section": {
+      "title": "Choose Your Agent",
+      "description": "Each AI agent is uniquely designed to enhance your Minecraft experience with specialized abilities",
+      "buy_now_button": "Buy Now",
+      "sale": "Sale",
+      "item": {
+        "builder_agent": {
+          "title": "Builder Agent",
+          "description": "Automates construction projects and builds complex structures with smart planning.",
+          "feature": {
+            "blueprint": "Smart blueprint execution",
+            "resource": "Resource optimization",
+            "buildings": "Multi-story buildings",
+            "redstone": "Redstone integration"
+          }
+        },
+        "gatherer_agent": {
+          "title": "Adventurer Agent",
+          "description": "Efficiently gathers resources and explores caves using advanced pathfinding algorithms.",
+          "feature": {
+            "mining": "Automated mining systems",
+            "cave": "Cave exploration",
+            "ore": "Ore detection",
+            "safe": "Safe navigation"
+          }
+        },
+        "collector_agent": {
+          "title": "Collector Agent",
+          "description": "Organizes inventory and manages item collection with intelligent sorting systems.",
+          "feature": {
+            "smart": "Smart item sorting",
+            "chest": "Chest organization",
+            "farming": "Automated farming",
+            "trade": "Trade management"
+          }
+        }
+      }
+    }
+  },
+  "features": {
+    "homepage": {
+      "hero": {
+        "title": "Create Your Own Agent",
+        "description": "Built with the latest AI technology for the ultimate Minecraft experience",
+        "download_button": "Download",
+        "login_button": "Login"
+      }
+    }
+  },
+  "pages": {
+    "home": {
+      "meta": {
+        "title": "Smart AI Agents for Minecraft",
+        "description": "AgenCraf revolutionizes Minecraft gameplay, enabling automatic building, mining, farming, and much more with AI agents. Explore it now!"
+      }
+    },
+    "faq": {
+      "meta": {
+        "title": "Frequently Asked Questions about Minecraft AI Agents",
+        "description": "Frequently asked questions and answers about AgenCraf. Find information here about AI agents that enhance your Minecraft experience, as well as details on purchasing, usage, and support."
+      }
+    }
+  }
+}

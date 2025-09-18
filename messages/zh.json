@@ -1,0 +1,140 @@
+{
+  "common": {
+    "navbar": {
+      "button": "联系我们"
+    },
+    "footer": {
+      "description": "通过智能人工智能代理革新Minecraft的玩法。",
+      "message": "© 2025 AgenCraf. 保留所有权利。",
+      "button": {
+        "builder_agent": "建造代理",
+        "gatherer_agent": "冒险代理",
+        "collector_agent": "收集代理",
+        "faq": "常见问题",
+        "contact_us": "联系我们",
+        "installation_guide": "安装指南",
+        "discord_server": "Discord服务器",
+        "reddit_community": "Reddit社区",
+        "youtube_channel": "YouTube频道",
+        "twitter": "Twitter"
+      },
+      "label": {
+        "products": "产品",
+        "support": "支持",
+        "connect": "连接"
+      }
+    }
+  },
+  "pages": {
+    "home": {
+      "meta": {
+        "title": "用于 Minecraft 的智能 AI 代理",
+        "description": "AgenCraf 通过人工智能代理彻底改变了 Minecraft 游戏玩法，实现自动建造、采矿、农业等功能。立即探索！"
+      }
+    },
+    "faq": {
+      "meta": {
+        "title": "关于Minecraft人工智能代理的常见问题",
+        "description": "关于AgenCraf的常见问题及答案。在这里了解有关增强Minecraft体验的人工智能代理、购买、使用和支持的详细信息。"
+      }
+    }
+  },
+  "blocks": {
+    "faq_section": {
+      "item_1": {
+        "label": "什么是AgenCraf代理？",
+        "message": "AgenCraf代理是为增强您的Minecraft体验而设计的人工智能角色。它们可以自动执行建筑、采矿、农业和收集等任务。"
+      },
+      "item_2": {
+        "label": "有哪些代理类型？",
+        "message": "现有代理：建筑师代理（建筑）、冒险者代理（采矿与探索）、收集者代理（库存管理与自动收集）。"
+      },
+      "item_3": {
+        "label": "代理安全吗？",
+        "message": "是的！我们所有的代理都设计为100%安全，不会导致服务器违规或被封禁的风险。"
+      },
+      "item_4": {
+        "label": "在哪些平台上运行？",
+        "message": "AgenCraf代理经过优化，可在Minecraft Java和Bedrock版本上运行。"
+      },
+      "item_5": {
+        "label": "如何购买代理？",
+        "message": "您可以通过我们网站上的“立即购买”按钮选择所需代理，并使用安全的支付方式完成购买。"
+      },
+      "item_6": {
+        "label": "我可以获得支持吗？",
+        "message": "可以！我们的支持团队全天候为您提供帮助。您可以通过联系我们页面向我们咨询任何问题。"
+      }
+    },
+    "features_section": {
+      "title": "为什么选择我们的代理？",
+      "description": "使用最新的人工智能技术打造，带来终极Minecraft体验",
+      "item": {
+        "lightning_fast": {
+          "title": "闪电般快速",
+          "description": "为流畅的游戏体验优化性能"
+        },
+        "safe": {
+          "title": "100% 安全",
+          "description": "无封禁或服务器违规风险"
+        },
+        "support": {
+          "title": "全天候支持",
+          "description": "随时为您提供专家帮助"
+        },
+        "top_rated": {
+          "title": "顶级评价",
+          "description": "全球数千玩家的信赖之选"
+        }
+      }
+    },
+    "choose_agent_section": {
+      "title": "选择你的代理",
+      "description": "每个人工智能代理都具备独特能力，专为提升你的Minecraft体验而设计",
+      "buy_now_button": "立即购买",
+      "sale": "优惠",
+      "item": {
+        "builder_agent": {
+          "title": "建造代理",
+          "description": "通过智能规划自动化建筑项目，构建复杂结构。",
+          "feature": {
+            "blueprint": "智能蓝图执行",
+            "resource": "资源优化",
+            "buildings": "多层建筑",
+            "redstone": "红石集成"
+          }
+        },
+        "gatherer_agent": {
+          "title": "冒险代理",
+          "description": "利用先进的寻路算法高效采集资源并探索洞穴。",
+          "feature": {
+            "mining": "自动化采矿系统",
+            "cave": "洞穴探索",
+            "ore": "矿石探测",
+            "safe": "安全导航"
+          }
+        },
+        "collector_agent": {
+          "title": "收集代理",
+          "description": "通过智能分类系统整理库存并管理物品收集。",
+          "feature": {
+            "smart": "智能物品分类",
+            "chest": "箱子管理",
+            "farming": "自动化农耕",
+            "trade": "交易管理"
+          }
+        }
+      }
+    }
+  },
+  "features": {
+    "homepage": {
+      "hero": {
+        "title": "创建你的专属代理",
+        "description": "使用最新的人工智能技术打造，带来终极Minecraft体验",
+        "download_button": "下载",
+        "login_button": "登录"
+      }
+    }
+  }
+}
