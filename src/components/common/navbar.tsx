@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import { getLocale, getTranslations } from "next-intl/server";
 
 import { Nav } from "@/components/ui/react/design-system";
@@ -14,14 +15,14 @@ async function Navbar() {
       className="border-b-4 border-muted sticky top-0 z-50 bg-secondary"
       containerClassName="flex items-center justify-between"
     >
-      <div className="flex items-center gap-2">
+      <Link href="/">
         <Image
           src="/assets/images/mini-app-icon.webp"
           width={50}
           height={50}
           alt="Logo"
         />
-      </div>
+      </Link>
       <div className="flex items-center gap-4">
         <LanguageSelect code={locale} />
         <Button size="lg">{t("button")}</Button>
