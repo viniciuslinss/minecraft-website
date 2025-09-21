@@ -1,12 +1,12 @@
-# 🚀 Agen-Craft
+# 🚀 Cognicraft
 
 > **A sophisticated AI-powered crafting platform built with Next.js** ✨
 
-Welcome to Agen-Craft, an innovative project that combines the power of artificial intelligence with intuitive user experiences. This modern web application showcases cutting-edge development practices and elegant design patterns.
+Welcome to Cognicraft, an innovative project that combines the power of artificial intelligence with intuitive user experiences. This modern web application showcases cutting-edge development practices and elegant design patterns.
 
 ## 🎯 Overview
 
-Agen-Craft represents the next generation of intelligent web applications, built with performance and user experience at its core. Whether you're exploring AI capabilities or crafting digital solutions, this platform provides a robust foundation for innovation.
+Cognicraft represents the next generation of intelligent web applications, built with performance and user experience at its core. Whether you're exploring AI capabilities or crafting digital solutions, this platform provides a robust foundation for innovation.
 
 ## ⚡ Features
 
@@ -35,8 +35,8 @@ Agen-Craft represents the next generation of intelligent web applications, built
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Xjectro/agen-craft.git
-   cd agen-craft
+   git clone https://github.com/Xjectro/cognicraft.git
+   cd cognicraft
    ```
 
 2. **Install dependencies**
@@ -68,7 +68,7 @@ Agen-Craft represents the next generation of intelligent web applications, built
 ## 📁 Project Structure
 
 ```
-agen-craft/
+cognicraft/
 ├── app/                    # Next.js 14 App Router
 │   ├── page.tsx           # Main page component
 │   └── ...
@@ -111,7 +111,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Xjectro/agen-craft/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Xjectro/cognicraft/issues).
 
 ## ⭐ Show Your Support
 

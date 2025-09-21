@@ -5,7 +5,7 @@
     },
     "footer": {
       "description": "通过智能人工智能代理革新Minecraft的玩法。",
-      "message": "© 2025 AgenCraf. 保留所有权利。",
+      "message": "© 2025 Cognicraft. 保留所有权利。",
       "button": {
         "builder_agent": "建造代理",
         "gatherer_agent": "冒险代理",
@@ -29,21 +29,21 @@
     "home": {
       "meta": {
         "title": "用于 Minecraft 的智能 AI 代理",
-        "description": "AgenCraf 通过人工智能代理彻底改变了 Minecraft 游戏玩法，实现自动建造、采矿、农业等功能。立即探索！"
+        "description": "Cognicraft 通过人工智能代理彻底改变了 Minecraft 游戏玩法，实现自动建造、采矿、农业等功能。立即探索！"
       }
     },
     "faq": {
       "meta": {
         "title": "关于Minecraft人工智能代理的常见问题",
-        "description": "关于AgenCraf的常见问题及答案。在这里了解有关增强Minecraft体验的人工智能代理、购买、使用和支持的详细信息。"
+        "description": "关于Cognicraft的常见问题及答案。在这里了解有关增强Minecraft体验的人工智能代理、购买、使用和支持的详细信息。"
       }
     }
   },
   "blocks": {
     "faq_section": {
       "item_1": {
-        "label": "什么是AgenCraf代理？",
-        "message": "AgenCraf代理是为增强您的Minecraft体验而设计的人工智能角色。它们可以自动执行建筑、采矿、农业和收集等任务。"
+        "label": "什么是Cognicraft代理？",
+        "message": "Cognicraft代理是为增强您的Minecraft体验而设计的人工智能角色。它们可以自动执行建筑、采矿、农业和收集等任务。"
       },
       "item_2": {
         "label": "有哪些代理类型？",
@@ -55,7 +55,7 @@
       },
       "item_4": {
         "label": "在哪些平台上运行？",
-        "message": "AgenCraf代理经过优化，可在Minecraft Java和Bedrock版本上运行。"
+        "message": "Cognicraft代理经过优化，可在Minecraft Java和Bedrock版本上运行。"
       },
       "item_5": {
         "label": "如何购买代理？",

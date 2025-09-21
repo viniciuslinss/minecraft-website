@@ -5,7 +5,7 @@
     },
     "footer": {
       "description": "Akıllı yapay zeka ajanlarıyla Minecraft oynanışında devrim.",
-      "message": "© 2025 AgenCraf. Tüm hakları saklıdır.",
+      "message": "© 2025 Cognicraft. Tüm hakları saklıdır.",
       "button": {
         "builder_agent": "Mimar Ajan",
         "gatherer_agent": "Macera Perest Ajan",
@@ -29,21 +29,21 @@
     "home": {
       "meta": {
         "title": "Minecraft için Akıllı Yapay Zeka Ajanları",
-        "description": "Minecraft oynanışında devrim yaratan AgenCraf, yapay zeka ajanlarıyla otomatik inşaat, madencilik, tarım ve daha fazlasını mümkün kılar. Hemen keşfet!"
+        "description": "Minecraft oynanışında devrim yaratan Cognicraft, yapay zeka ajanlarıyla otomatik inşaat, madencilik, tarım ve daha fazlasını mümkün kılar. Hemen keşfet!"
       }
     },
     "faq": {
       "meta": {
         "title": "Minecraft Yapay Zeka Ajanları Hakkında Sorular",
-        "description": "AgenCraf ile ilgili sıkça sorulan sorular ve cevaplar. Minecraft deneyiminizi geliştiren yapay zeka ajanları, satın alma, kullanım ve destek hakkında bilgilere buradan ulaşın."
+        "description": "Cognicraft ile ilgili sıkça sorulan sorular ve cevaplar. Minecraft deneyiminizi geliştiren yapay zeka ajanları, satın alma, kullanım ve destek hakkında bilgilere buradan ulaşın."
       }
     }
   },
   "blocks": {
     "faq_section": {
       "item_1": {
-        "label": "AgenCraf ajanları nedir?",
-        "message": "AgenCraf ajanları, Minecraft deneyiminizi geliştirmek için tasarlanmış yapay zeka destekli karakterlerdir. İnşaat, madencilik, tarım ve toplama gibi görevleri otomatikleştirirler."
+        "label": "Cognicraft ajanları nedir?",
+        "message": "Cognicraft ajanları, Minecraft deneyiminizi geliştirmek için tasarlanmış yapay zeka destekli karakterlerdir. İnşaat, madencilik, tarım ve toplama gibi görevleri otomatikleştirirler."
       },
       "item_2": {
         "label": "Hangi ajan tipleri mevcut?",
@@ -55,7 +55,7 @@
       },
       "item_4": {
         "label": "Hangi platformlarda çalışıyor?",
-        "message": "AgenCraf ajanları Minecraft Java ve Bedrock sürümlerinde çalışacak şekilde optimize edilmiştir."
+        "message": "Cognicraft ajanları Minecraft Java ve Bedrock sürümlerinde çalışacak şekilde optimize edilmiştir."
       },
       "item_5": {
         "label": "Ajanları nasıl satın alabilirim?",

@@ -5,7 +5,7 @@
     },
     "footer": {
       "description": "Revolución en el juego de Minecraft con agentes de IA inteligentes.",
-      "message": "© 2025 AgenCraf. Todos los derechos reservados.",
+      "message": "© 2025 Cognicraft. Todos los derechos reservados.",
       "button": {
         "builder_agent": "Agente Constructor",
         "gatherer_agent": "Agente Aventurero",
@@ -28,8 +28,8 @@
   "blocks": {
     "faq_section": {
       "item_1": {
-        "label": "¿Qué son los agentes de AgenCraf?",
-        "message": "Los agentes de AgenCraf son personajes con inteligencia artificial diseñados para mejorar tu experiencia en Minecraft. Automatizan tareas como construcción, minería, agricultura y recolección."
+        "label": "¿Qué son los agentes de Cognicraft?",
+        "message": "Los agentes de Cognicraft son personajes con inteligencia artificial diseñados para mejorar tu experiencia en Minecraft. Automatizan tareas como construcción, minería, agricultura y recolección."
       },
       "item_2": {
         "label": "¿Qué tipos de agentes existen?",
@@ -41,7 +41,7 @@
       },
       "item_4": {
         "label": "¿En qué plataformas funcionan?",
-        "message": "Los agentes de AgenCraf están optimizados para funcionar en las versiones Java y Bedrock de Minecraft."
+        "message": "Los agentes de Cognicraft están optimizados para funcionar en las versiones Java y Bedrock de Minecraft."
       },
       "item_5": {
         "label": "¿Cómo puedo comprar un agente?",
@@ -127,13 +127,13 @@
     "home": {
       "meta": {
         "title": "Agentes de IA inteligentes para Minecraft",
-        "description": "AgenCraf revoluciona la jugabilidad de Minecraft, permitiendo construcción automática, minería, agricultura y mucho más con agentes de inteligencia artificial. ¡Descúbrelo ahora!"
+        "description": "Cognicraft revoluciona la jugabilidad de Minecraft, permitiendo construcción automática, minería, agricultura y mucho más con agentes de inteligencia artificial. ¡Descúbrelo ahora!"
       }
     },
     "faq": {
       "meta": {
         "title": "Preguntas sobre los Agentes de IA para Minecraft",
-        "description": "Preguntas frecuentes y respuestas sobre AgenCraf. Aquí puedes encontrar información sobre los agentes de inteligencia artificial que mejoran tu experiencia en Minecraft, así como sobre la compra, uso y soporte."
+        "description": "Preguntas frecuentes y respuestas sobre Cognicraft. Aquí puedes encontrar información sobre los agentes de inteligencia artificial que mejoran tu experiencia en Minecraft, así como sobre la compra, uso y soporte."
       }
     }
   }

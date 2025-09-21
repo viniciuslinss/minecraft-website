@@ -63,7 +63,7 @@ export function generateMeta({
       "agentes de Minecraft",
       "Minecraft代理",
       "агенты Minecraft",
-      "AgenCraf",
+      "Cognicraft",
       ...keywords,
     ],
     authors: [{ name: "meşhur", url: baseUrl }],

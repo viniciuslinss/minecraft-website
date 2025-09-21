@@ -19,7 +19,7 @@ async function Footer() {
                 alt="App Icon"
               />
               <span className="ml-3 text-xl font-bold text-secondary-foreground tracking-wider">
-                Agen Craft
+                Cognicraft
               </span>
             </div>
             <p className="text-muted-foreground">{t("description")}</p>

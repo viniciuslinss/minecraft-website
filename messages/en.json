@@ -5,7 +5,7 @@
     },
     "footer": {
       "description": "Revolutionizing Minecraft gameplay with intelligent AI agents.",
-      "message": "© 2025 AgenCraf. All rights reserved.",
+      "message": "© 2025 Cognicraft. All rights reserved.",
       "button": {
         "builder_agent": "Builder Agent",
         "gatherer_agent": "Adventurer Agent",
@@ -28,8 +28,8 @@
   "blocks": {
     "faq_section": {
       "item_1": {
-        "label": "What are AgenCraf agents?",
-        "message": "AgenCraf agents are AI-powered characters designed to enhance your Minecraft experience. They automate tasks such as building, mining, farming, and collecting."
+        "label": "What are Cognicraft agents?",
+        "message": "Cognicraft agents are AI-powered characters designed to enhance your Minecraft experience. They automate tasks such as building, mining, farming, and collecting."
       },
       "item_2": {
         "label": "What types of agents are available?",
@@ -41,7 +41,7 @@
       },
       "item_4": {
         "label": "Which platforms do they work on?",
-        "message": "AgenCraf agents are optimized to work on Minecraft Java and Bedrock editions."
+        "message": "Cognicraft agents are optimized to work on Minecraft Java and Bedrock editions."
       },
       "item_5": {
         "label": "How can I purchase agents?",
@@ -127,13 +127,13 @@
     "home": {
       "meta": {
         "title": "Smart AI Agents for Minecraft",
-        "description": "AgenCraf revolutionizes Minecraft gameplay, enabling automatic building, mining, farming, and much more with AI agents. Explore it now!"
+        "description": "Cognicraft revolutionizes Minecraft gameplay, enabling automatic building, mining, farming, and much more with AI agents. Explore it now!"
       }
     },
     "faq": {
       "meta": {
         "title": "Frequently Asked Questions about Minecraft AI Agents",
-        "description": "Frequently asked questions and answers about AgenCraf. Find information here about AI agents that enhance your Minecraft experience, as well as details on purchasing, usage, and support."
+        "description": "Frequently asked questions and answers about Cognicraft. Find information here about AI agents that enhance your Minecraft experience, as well as details on purchasing, usage, and support."
       }
     }
   }

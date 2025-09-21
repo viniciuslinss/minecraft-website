@@ -5,7 +5,7 @@
     },
     "footer": {
       "description": "Revolution im Minecraft-Gameplay mit intelligenten KI-Agenten.",
-      "message": "© 2025 AgenCraf. Alle Rechte vorbehalten.",
+      "message": "© 2025 Cognicraft. Alle Rechte vorbehalten.",
       "button": {
         "builder_agent": "Baumeister-Agent",
         "gatherer_agent": "Abenteurer-Agent",
@@ -28,8 +28,8 @@
   "blocks": {
     "faq_section": {
       "item_1": {
-        "label": "Was sind AgenCraf-Agenten?",
-        "message": "AgenCraf-Agenten sind KI-gesteuerte Charaktere, die entwickelt wurden, um Ihr Minecraft-Erlebnis zu verbessern. Sie automatisieren Aufgaben wie Bauen, Bergbau, Landwirtschaft und Sammeln."
+        "label": "Was sind Cognicraft-Agenten?",
+        "message": "Cognicraft-Agenten sind KI-gesteuerte Charaktere, die entwickelt wurden, um Ihr Minecraft-Erlebnis zu verbessern. Sie automatisieren Aufgaben wie Bauen, Bergbau, Landwirtschaft und Sammeln."
       },
       "item_2": {
         "label": "Welche Agententypen gibt es?",
@@ -41,7 +41,7 @@
       },
       "item_4": {
         "label": "Auf welchen Plattformen funktionieren sie?",
-        "message": "AgenCraf-Agenten sind für die Minecraft Java- und Bedrock-Versionen optimiert."
+        "message": "Cognicraft-Agenten sind für die Minecraft Java- und Bedrock-Versionen optimiert."
       },
       "item_5": {
         "label": "Wie kann ich Agenten kaufen?",
@@ -127,13 +127,13 @@
     "home": {
       "meta": {
         "title": "Intelligente KI-Agenten für Minecraft",
-        "description": "AgenCraf revolutioniert das Minecraft-Spiel, indem es automatisches Bauen, Bergbau, Landwirtschaft und vieles mehr mit KI-Agenten ermöglicht. Jetzt entdecken!"
+        "description": "Cognicraft revolutioniert das Minecraft-Spiel, indem es automatisches Bauen, Bergbau, Landwirtschaft und vieles mehr mit KI-Agenten ermöglicht. Jetzt entdecken!"
       }
     },
     "faq": {
       "meta": {
         "title": "Häufig gestellte Fragen zu Minecraft KI-Agenten",
-        "description": "Häufig gestellte Fragen und Antworten zu AgenCraf. Hier finden Sie Informationen über KI-Agenten, die Ihr Minecraft-Erlebnis verbessern, sowie Details zu Kauf, Nutzung und Support."
+        "description": "Häufig gestellte Fragen und Antworten zu Cognicraft. Hier finden Sie Informationen über KI-Agenten, die Ihr Minecraft-Erlebnis verbessern, sowie Details zu Kauf, Nutzung und Support."
       }
     }
   }
